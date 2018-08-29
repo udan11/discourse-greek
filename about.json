@@ -1,0 +1,17 @@
+{
+  "name": "discourse-greek",
+  "about_url": "https://github.com/udan11/discourse-greek",
+  "license_url": "https://github.com/udan11/discourse-greek/blob/master/LICENSE",
+  "color_schemes": {
+    "greek": {
+      "tertiary": "009900"
+    }
+  },
+  "assets": {
+    "merriweather-cyrillic-ext": "assets/merriweather-cyrillic-ext.woff2",
+    "merriweather-latin": "assets/merriweather-latin.woff2",
+    "merriweather-cyrillic": "assets/merriweather-cyrillic.woff2",
+    "merriweather-vietnamese": "assets/merriweather-vietnamese.woff2",
+    "merriweather-latin-ext": "assets/merriweather-latin-ext.woff2"
+  }
+}
